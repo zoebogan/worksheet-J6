@@ -50,5 +50,6 @@ public class AnimalFootRace {
         jaguarThread.start();
     }
 }
-``` Because I inputted a larger integer in of the speed of the jaguar, its trend finishes before the other three without the giving the hare a head start. With joining the harethread the cheetah and jaguar thread have more back and forth rather than all three threads (tortoise, cheetah, and jaguar) being more randomly run.
+```
+Because I inputted a larger integer in of the speed of the jaguar, its trend finishes before the other three without the giving the hare a head start. With joining the harethread the cheetah and jaguar thread have more back and forth rather than all three threads (tortoise, cheetah, and jaguar) being more randomly run.
 10. 
